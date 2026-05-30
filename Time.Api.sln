@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time.Api", "Time.Api\Time.Api.csproj", "{55572E79-BAF9-4062-B77D-191C4085B75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55572E79-BAF9-4062-B77D-191C4085B75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55572E79-BAF9-4062-B77D-191C4085B75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55572E79-BAF9-4062-B77D-191C4085B75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55572E79-BAF9-4062-B77D-191C4085B75C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
